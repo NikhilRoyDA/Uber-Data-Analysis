@@ -20,19 +20,32 @@ The main objective of this project is to analyze Uber trip data by performing:
 
 ## 🔍 Project Execution & Analysis
 1️⃣ Data Cleaning & Transformation
-
-- ![image](https://github.com/user-attachments/assets/cff358f0-55b0-4a05-ad63-30ec2152ac92)
 - Extracted time from date-time columns using the formula:
+- ![image](https://github.com/user-attachments/assets/cff358f0-55b0-4a05-ad63-30ec2152ac92)
 - Used Text to Columns (Fixed Width) in Excel for cases where automatic extraction failed.
 - Created separate date and time columns for better analysis.
 
 2️⃣ Trip Duration Calculation
-- Used an IF formula to handle trips that crossed midnight
+- Used an IF formula to handle trips that crossed midnight:
 - ![image](https://github.com/user-attachments/assets/52ca241e-e92e-46b3-81d4-2cdffe81cf25)
 
-- Converted trip duration to hours for readability
+- Converted trip duration to hours for readability:
 - ![image](https://github.com/user-attachments/assets/ca69ff11-d224-4490-a671-383bfeee46b4)
 
+3️⃣ Speed Calculation & Outlier Removal
+- Calculated speed using:
+- ![image](https://github.com/user-attachments/assets/eb15067c-1dc8-45b7-b6ba-a8b4b509de80)
+- Removed unrealistic speed values (>160 km/h) to ensure data accuracy.
 
+4️⃣ Data Analysis & Insights
+- Found the most frequent start and stop locations.
+- Determined the most popular routes.
+- Identified the fastest route in the dataset.
 
-
+## 📈 Project Insights
+- Total Unique Start Locations: 176
+- Total Unique Stop Locations: 187
+- Most Frequent Start Location: Home
+- Most Frequent Stop Location: Home
+- Most Frequent Route: Home → Work
+- Highest Speed Route: Cary → Morrisville
