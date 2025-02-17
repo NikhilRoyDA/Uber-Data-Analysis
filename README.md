@@ -12,13 +12,13 @@ The main objective of this project is to analyze Uber trip data by performing:
 - Detecting Anomalies & Outliers (e.g., unrealistic speed values).
 - Drawing Actionable Insights to understand ride behavior better.
 
-## 📊 Key Questions (KPIs) Analyzed:
+## 📊 Key Questions Analyzed:
 1. How many unique start and stop locations are there?
 2. What are the most frequently used start and stop locations?
 3. What is the most frequent route taken?
 4. What is the highest route speed recorded?
 
-## 🔍 Project Execution & Analysis
+## 🔍 Project Execution & Analysis:
 1️⃣ Data Cleaning & Transformation
 - Extracted time from date-time columns using the formula:
 - ![image](https://github.com/user-attachments/assets/cff358f0-55b0-4a05-ad63-30ec2152ac92)
@@ -43,19 +43,20 @@ The main objective of this project is to analyze Uber trip data by performing:
 - Identified the fastest route in the dataset.
 
 ## 📈 Project Insights
-- Total Unique Start Locations: 176
-- Total Unique Stop Locations: 187
+- Total Unique Start Locations: 177
+- Total Unique Stop Locations: 188
 - Most Frequent Start Location: Home
 - Most Frequent Stop Location: Home
 - Most Frequent Route: Home → Work
 - Highest Speed Route: Cary → Morrisville
 
 ## 🛠 Skills Utilized
-✅ Data Cleaning (Extracting time, date, handling missing values)
-✅ Data Transformation (Splitting columns, using formulas)
-✅ Excel Formulas & Functions (IF, HOUR, MINUTE, Text to Columns)
-✅ Data Validation & Outlier Removal (Filtering incorrect speed values)
-✅ Data Analysis & Insights (Identifying patterns, frequency analysis)
-✅ Visualization & Reporting (Summarizing findings)
+1. Data Cleaning (Extracting time, date, handling missing values)
+2. Data Transformation (Splitting columns, using formulas)
+3. Excel Formulas & Functions (IF, HOUR, MINUTE, Text to Columns)
+4. Data Validation & Outlier Removal (Filtering incorrect speed values)
+5. Data Analysis & Insights (Identifying patterns, frequency analysis)
+6. Visualization & Reporting (Summarizing findings)
 
-
+## 🎯 Final Conclusion
+This project successfully cleaned, transformed, and analyzed Uber trip data using Excel. By leveraging formulas, functions, and data validation techniques, we extracted meaningful insights about commuting behavior.
