@@ -20,5 +20,6 @@ The main objective of this project is to analyze Uber trip data by performing:
 
 ## 🔍 Project Execution & Analysis
 1️⃣ Data Cleaning & Transformation
-![image](https://github.com/user-attachments/assets/af2db0ab-3d8c-4951-9391-51afed0203e4)
+
+- ![image](https://github.com/user-attachments/assets/af2db0ab-3d8c-4951-9391-51afed0203e4)
 
