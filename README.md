@@ -49,3 +49,13 @@ The main objective of this project is to analyze Uber trip data by performing:
 - Most Frequent Stop Location: Home
 - Most Frequent Route: Home → Work
 - Highest Speed Route: Cary → Morrisville
+
+## 🛠 Skills Utilized
+✅ Data Cleaning (Extracting time, date, handling missing values)
+✅ Data Transformation (Splitting columns, using formulas)
+✅ Excel Formulas & Functions (IF, HOUR, MINUTE, Text to Columns)
+✅ Data Validation & Outlier Removal (Filtering incorrect speed values)
+✅ Data Analysis & Insights (Identifying patterns, frequency analysis)
+✅ Visualization & Reporting (Summarizing findings)
+
+
