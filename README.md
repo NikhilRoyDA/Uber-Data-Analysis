@@ -21,5 +21,15 @@ The main objective of this project is to analyze Uber trip data by performing:
 ## 🔍 Project Execution & Analysis
 1️⃣ Data Cleaning & Transformation
 
-- ![image](https://github.com/user-attachments/assets/af2db0ab-3d8c-4951-9391-51afed0203e4)
+- ![image](https://github.com/user-attachments/assets/cff358f0-55b0-4a05-ad63-30ec2152ac92)
+- Extracted time from date-time columns using the formula:
+- Used Text to Columns (Fixed Width) in Excel for cases where automatic extraction failed.
+- Created separate date and time columns for better analysis.
+
+2️⃣ Trip Duration Calculation
+- Used an IF formula to handle trips that crossed midnight
+![image](https://github.com/user-attachments/assets/52ca241e-e92e-46b3-81d4-2cdffe81cf25)
+
+
+
 
