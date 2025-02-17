@@ -28,7 +28,10 @@ The main objective of this project is to analyze Uber trip data by performing:
 
 2️⃣ Trip Duration Calculation
 - Used an IF formula to handle trips that crossed midnight
-![image](https://github.com/user-attachments/assets/52ca241e-e92e-46b3-81d4-2cdffe81cf25)
+- ![image](https://github.com/user-attachments/assets/52ca241e-e92e-46b3-81d4-2cdffe81cf25)
+
+- Converted trip duration to hours for readability
+- ![image](https://github.com/user-attachments/assets/ca69ff11-d224-4490-a671-383bfeee46b4)
 
 
 
