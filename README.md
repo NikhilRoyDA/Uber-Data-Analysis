@@ -1,9 +1,7 @@
 # Uber-Data-Analysis
 
-## 🚀 Project Overview:
-This project analyzes Uber trip data using Excel to uncover travel patterns, trip durations, speeds, and popular routes. The dataset is cleaned, transformed, and analyzed to gain valuable insights into commuting behavior.
-
 ## 📌 Project Objective:
+This project analyzes Uber trip data using Excel to uncover travel patterns, trip durations, speeds, and popular routes. The dataset is cleaned, transformed, and analyzed to gain valuable insights into commuting behavior.
 The main objective of this project is to analyze Uber trip data by performing:
 
 - Data Cleaning & Transformation to prepare raw data for analysis.
