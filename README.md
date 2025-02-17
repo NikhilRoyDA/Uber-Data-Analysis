@@ -13,7 +13,7 @@ The main objective of this project is to analyze Uber trip data by performing:
 - Drawing Actionable Insights to understand ride behavior better.
 
 ## 📊 Key Questions (KPIs) Analyzed:
-✅ 1. How many unique start and stop locations are there?
-✅ 2. What are the most frequently used start and stop locations?
-✅ 3. What is the most frequent route taken?
-✅ 4. What is the highest route speed recorded?
+1. How many unique start and stop locations are there?
+2. What are the most frequently used start and stop locations?
+3. What is the most frequent route taken?
+4. What is the highest route speed recorded?
